@@ -1,7 +1,7 @@
 ## photo-mask-bot
 A telegram bot that fill received photos with 'mask.png'
 
-##How To Use
+## How To Use
 
 you need Python 3.7.0 and above to run the script.
 
